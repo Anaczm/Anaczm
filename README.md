@@ -4,7 +4,7 @@
 
 
 ### Seja muito bem vindo(a) ao meu perfil do Github!
-#### Desenvolvedora de software júnior em busca de aprender coisas novas 🧠💻
+#### Desenvolvedora de software júnior em busca de novos aprendizados 🧠💻
 
 
 
