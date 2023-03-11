@@ -10,5 +10,4 @@
 
 Aqui você poderá ver meus projetos e minhas anotações de estudos, adquirindo conhecimento.
 
-Porifólio em andamento...
 </div>
