@@ -1,8 +1,6 @@
-### Seja muito bem vindo(a) ao meu perfil do Github!
-#### Desenvolvedora de software júnior em busca de novos aprendizados 🧠💻
+## Welcome to my Github profile!
+#### Backend developer seeking for new learnings 🧠💻
 
 
 
-Aqui você poderá ver meus projetos e minhas anotações de estudos, adquirindo conhecimento.
-
-</div>
+Here you can see my projects and my studie notes, acquiring knolegde.
