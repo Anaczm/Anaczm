@@ -3,4 +3,4 @@
 
 
 
-Here you can see my projects and my studie notes, acquiring knolegde.
+Here you can see my projects and my study notes, acquiring knolegde.
